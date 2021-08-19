@@ -1,0 +1,2 @@
+# patikasql
+Sql ödevler
